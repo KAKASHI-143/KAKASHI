@@ -1,6 +1,6 @@
 import os, sys
 os.system("git pull")
 try:
-    __import__("mexi").___ERROR___()
+    __import__("ARIYANBHAI").ARIYAN()
 except Exception as e:
     exit(str(e))
